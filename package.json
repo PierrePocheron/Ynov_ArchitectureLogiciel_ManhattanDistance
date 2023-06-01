@@ -1,0 +1,15 @@
+{
+  "name": "manhattan-distance",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Pierre POCHERON <pierre.pocheron@gmail.com>",
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
